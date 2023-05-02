@@ -1,0 +1,12 @@
+<skills>
+	<skill1>Terminal</skil1>
+	<skill2>Github</skill2>
+	<skill3>Postman</skill3>
+	<skill4>SQL</skill4>
+	<skill5>
+		<one>charlies</one>
+		<two>Fiddler</two>
+	</skill5>
+	<skill6>Dev tools</skill6>
+	<skill7>Android Studio</skill7>
+</skills>
